@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Handlee&display=swap");
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  font-family: "Handlee", cursive;
+  background-color: rgb(243, 243, 199);
+}
+h1 {
+  font-weight: bolder;
+  font-family: "Handlee", cursive;
+}
+h3 {
+  font-family: "Handlee", cursive;
+}
